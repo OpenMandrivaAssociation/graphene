@@ -8,7 +8,7 @@
 
 Summary:	A thin layer of types for graphic libraries
 Name:		graphene
-Version:	1.10.2
+Version:	1.10.6
 Release:	1
 License:	MIT
 Group:          System/Libraries
