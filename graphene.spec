@@ -9,7 +9,7 @@
 Summary:	A thin layer of types for graphic libraries
 Name:		graphene
 Version:	1.10.8
-Release:	6
+Release:	7
 License:	MIT
 Group:          System/Libraries
 URL:		https://github.com/ebassi/graphene
